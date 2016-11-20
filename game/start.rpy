@@ -5,6 +5,8 @@ label start:
     if mc_name == '':
         $ mc_name = 'Mili'
 
+    # Make this as NVL mode with opened book as background.
+
     'Author\'s Note'
 
     'Greetings.'
@@ -19,7 +21,7 @@ label start:
     'This book will give you utter happiness but it will also give you heartache.
         So I\'m writing this as a warning:'
 
-    'If you\'ve really decided to go on then, I applaud your courage but if not,
+    'If you\'ve really decided to go on, then I applaud your courage but if not,
         this is your chance to close this book and never open it again.'
 
     'If you choose to carry on, I hope he\'ll give you enough smiles all through
