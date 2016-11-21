@@ -1,41 +1,41 @@
-Sun Nov 20 23:25:51 2016
+Mon Nov 21 22:41:30 2016
 Darwin-12.6.0-x86_64-i386-64bit
 Ren'Py 6.99.11.1749
  
 
-Bootstrap to the start of init.init took 0.17s
-Early init took 0.32s
-Loader init took 0.10s
-Loading error handling took 0.22s
-Loading script took 2.49s
-Loading persistent took 0.63s
+Bootstrap to the start of init.init took 0.20s
+Early init took 0.34s
+Loader init took 0.09s
+Loading error handling took 0.17s
+Loading script took 1.10s
+Loading persistent took 0.19s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 2.88s
-Loading analysis data took 0.04s
+Running init code took 0.38s
+Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
 Backing up script files to '/Users/jena/Library/RenPy/backups/The_Master_s_Companion':
-Dump and make backups. took 0.16s
+Dump and make backups. took 0.08s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 DPI scale factor: 1.000000
-Creating interface object took 5.05s
+Creating interface object took 2.55s
 Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.06s
 Build styles took 0.01s
 Load screen analysis took 0.03s
-Analyze screens took 0.06s
-Save screen analysis took 0.08s
+Analyze screens took 0.07s
+Save screen analysis took 0.10s
 Prepare screens took 0.08s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.10s
+Save bytecode. took 0.00s
 Running _start took 0.00s
 Performance test:
 Interface start took 0.01s
 
 primary display bounds: (0, 0, 1280, 800)
 Windowed mode.
-Screen sizes: virtual=(1280, 720) physical=(1175, 660) drawable=(1175, 660)
+Screen sizes: virtual=(1280, 720) physical=(1173, 660) drawable=(1173, 660)
 Vendor: 'NVIDIA Corporation'
 Renderer: 'NVIDIA GeForce 9400M OpenGL Engine'
 Version: '2.1 NVIDIA-8.16.82 310.40.00.20f04'
@@ -189,18 +189,18 @@ Texture testing:
 - 512px textures work.
 - 1024px textures work.
 - 2048px textures work.
-Total time until interface ready: 14.6279039383s
+Total time until interface ready: 7.88105821609s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
-- Frame drawn at 0.082095 seconds.
-- Frame drawn at 0.092424 seconds.
-- Frame drawn at 0.103624 seconds.
-- Frame drawn at 0.120257 seconds.
-- 0.120257 seconds to render 5 frames.
+- Frame drawn at 0.012114 seconds.
+- Frame drawn at 0.028200 seconds.
+- Frame drawn at 0.044756 seconds.
+- Frame drawn at 0.061461 seconds.
+- 0.061461 seconds to render 5 frames.
 Cleaning stores took 0.00s
-Init translation took 0.23s
+Init translation took 0.22s
 Build styles took 0.02s
-Load screen analysis took 0.17s
+Load screen analysis took 0.02s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s

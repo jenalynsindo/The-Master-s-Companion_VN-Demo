@@ -24,12 +24,12 @@ label first_leaf:
 
     'It doesn\'t even have a title!'
 
-    'It doesn\'t have weird gold decors engraved on it.'
+    'But it does have weird gold decors engraved on it.'
 
     'The book looks old and worn out but intact. It doesn\'t have those printed
         numbers they place on library books.'
 
-    'It was unusual because even books that are to be place in the archives or
+    'It was unusual because even books that are to be placed in the archives or
         to be obsolete has them. Especially since you\'re in the library now.'
 
     'You found it in one of the shelves in the far back of the library while
@@ -101,7 +101,149 @@ label first_leaf:
 
     'You sighed and stared at the ceiling.'
 
-    mc 'I\'m not really one for writing things. Sure I\'ve submitted essays
+    mc 'I\'m not really one for writing things. Sure, I\'ve submitted essays
         to my teachers but that\'s different. Those are required.'
 
+    'When you looked back down, you read something you didn\'t write.'
+
+    'It made you shriek loudly and made you stand forcefully, bumping the ink
+        bottle in the process, spilling the black liquid on the pages.'
+
+    # *shh* VA
+
+    'You were then answered by many hushing sounds that made you cringe as you
+        erect the ink bottle and try to wipe the ink splotches on the table
+        and on the book.'
+
+    'The book magically answered your first statement with:'
+
+    # Should we add a VA for Travis?
+
+    '???' '"Oh! It\'s a good thing you wrote to me then! I\'m a little bored
+        as well!"'
+
+    mc '. . . T-That\'s not normal! Not normal at all!'
+
+    'You put aside the shock and disbelief for now as the other occupants of
+        the library averted their eyes in an annoyed manner.'
+
+    # mc ehem VA
+
+    'Somehow, in between of being freaked out and embarassed, you managed to
+        get annoyed as well.'
+
+    '"Well sorry! It\'s not every day you encountered a talking book!", you thought.'
+
+    'You wiped the table with pages you ripped from the back of your notebook.
+        As you clean messily, you noticed some movement from the corner of your eye.'
+
+    mc 'The ink on the pages!'
+
+    'You had your eyes wide once more and tried to choke down a scream.
+        The ink blotch is fading but not completely, it\'s starting to form words.'
+
+    '???' '"I\'m sorry. I didn\'t mean to startle you. I thought you had known
+        that I would answer."'
+
+    mc 'Right! That\'s it! This is definitely just a product of my boredom.'
+
+    mc 'There is NO way a book would answer! Much less feel sorry for startling me!'
+
+    # sound effect: book thud!
+
+    'You shut the book loudly after shoving the plume and tattered bookmark on
+        the pages you wrote on. You earned yet another batch of glares but you
+        couldn\'t care less.'
+
+    'You carried the book to the shelf you got it from and shove it back there.'
+
+    mc 'Okay.. this. never. happened.'
+
+    'You went back to cleaning the table, though there wasn\'t much since most
+        of the ink spilled on that darn book.'
+
+    'You placed the last of the ink-stained notebook pages in the bin and looked
+        at your hands that were now dirty as well.'
+
+    'Well, it\'s the marker\'s ink so you don\'t expect it to be removed soon,
+        no matter how much you wash your hands, so you decided to leave it be.'
+
+    'Now that you\'ve calmed down a little, you decided to check the book once more.'
+
+    'It\'s definitely just a trick of your eyes played on you. And this time,
+        you tried to convince yourself that the message from the book can\'t be
+        real. It\'s illogical!'
+
+    'Without noticing, your feet already carried you to the aisle of the wicked
+        book.'
+
+    'You took a deep breath before pulling it out once more and opened it to
+        where the bookmark and pen were.'
+
+    'But as you thought... only your writing and ink blotch were there.'
+
+    mc 'Silly me, there\'s no way that would happen!'
+
+    'You examined the first page once more.'
+
+    'The spill didn\'t spread through the pages. It was just the first page
+        and the ink\'s already dried.'
+
+    'As you look closer, your dirty thumb left marks on the pages.'
+
+    'You stared in horror as the words you saw earlier reappeared on the page.'
+
+    # book fall sfx
+
+    'You dropped the book like you would drop something that burns you.'
+
+    'Oddly, it stayed on page one. More words appeared:'
+
+    '???' '"I thought I scared you away and you\'d never come back, but you did!
+        Thank goodness!"'
+
+    mc 'What are you?'
+
+    'You said but it did not reply like before.'
+
+    mc 'Write it, you idiot! It\'s a book, it won\'t be able to hear you!'
+
+    'You scold yourself and with that, you shakily wrote:'
+
+    mc '"What are you?"'
+
+    'This time, the ink blotch appeared lighter as you write.'
+
+    mc 'Oh, this is convenient! Now I won\'t need to ask the librarian for
+        another bottle.'
+
+    '???' '"That\'s rude! I\'m not a thing, you know."'
+
+    mc 'Oh great! Now I\'ve offended a book!'
+
+    '???' '"I may reside in a book but I\'m more or less a person."'
+
+    '???' '"I am the master\'s companion!"'
+
+    mc '"More or less a person... are you sure you\'re not cursed to be
+        trapped in a book?"'
+
+    'The book was still on the floor. You sat beside it, close enough to be
+        able to write and far enough to run away in case something explosive happen.'
+
+    'The words appeared one by one this time.'
+
+    '???' '"Of course not! The master may be skilled with magic but she\'s not
+        so cruel to curse someone! She\'s a bit of a lone wolf though."'
+
+    # *chuckle* VA
+
+    'You chuckled at the last statement. The book\'s master is a girl and a
+        loner at that. The master reminds you somewhat of yourself.'
+
+    mc '"So let me rephrase the question: Who are you?"'
+
+    '???' '"I\'m Travis Montmorency."'
+
+    tm '"That\'s what my master calls me. I\'m male by the way."'
     return
